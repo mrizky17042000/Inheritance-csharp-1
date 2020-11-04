@@ -1,0 +1,13 @@
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\obj\Debug\netcoreapp3.1\Latihan1.csprojAssemblyReference.cache
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\obj\Debug\netcoreapp3.1\Latihan1.AssemblyInfoInputs.cache
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\obj\Debug\netcoreapp3.1\Latihan1.AssemblyInfo.cs
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\obj\Debug\netcoreapp3.1\Latihan1.csproj.CoreCompileInputs.cache
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\bin\Debug\netcoreapp3.1\Latihan1.exe
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\bin\Debug\netcoreapp3.1\Latihan1.deps.json
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\bin\Debug\netcoreapp3.1\Latihan1.runtimeconfig.json
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\bin\Debug\netcoreapp3.1\Latihan1.runtimeconfig.dev.json
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\bin\Debug\netcoreapp3.1\Latihan1.dll
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\bin\Debug\netcoreapp3.1\Latihan1.pdb
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\obj\Debug\netcoreapp3.1\Latihan1.dll
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\obj\Debug\netcoreapp3.1\Latihan1.pdb
+D:\TUGAS\DOT NET CORE\LATIHAN\Latihan1\obj\Debug\netcoreapp3.1\Latihan1.genruntimeconfig.cache
