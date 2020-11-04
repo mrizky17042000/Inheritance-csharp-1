@@ -13,7 +13,7 @@ namespace Latihan1
             kmps.printInfo();
 
             // ========================= SET IN MAIN WITH CONSTRUCT AND VAR======================
-            // var kmps = new Kampus.Mahasiswa(20, "M. RIZKY", "Sarijadi", "D4 TI", "Moh Nurkamal Fauzan", "Pemrograman WEB 2");
+            // var kmps = new Kampus.Ukm.Mahasiswa(20, "M. RIZKY", "Sarijadi", "D4 TI", "Moh Nurkamal Fauzan", "Pemrograman WEB 2");
             // kmps.printInfo();
         }
     }
