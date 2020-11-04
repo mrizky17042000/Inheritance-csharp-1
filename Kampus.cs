@@ -23,56 +23,57 @@ namespace Latihan1
             return this.matkul;
         }
 
-        public class Mahasiswa : Kampus
+        public class Ukm : Kampus
         {
-            int id;
-            String nama;
-            String alamat;
-            String kelas;
-            // ==============================CONSTRUCT NULL============================
-            // public Mahasiswa()
-            // {
+            string ukm;
 
-            // }
-            public void setId(int id)
+            public class Mahasiswa : Ukm
             {
-                this.id = id;
-            }
-            public int getId()
-            {
-                return this.id;
-            }
-            public void setNama(String nama)
-            {
-                this.nama = nama;
-            }
-            public string getNama()
-            {
-                return this.nama;
-            }
+                int id;
+                String nama;
+                String alamat;
+                String kelas;
+                // ==============================CONSTRUCT NULL============================
+                // public Mahasiswa()
+                // {
 
-            public void setAlamat(String alamat)
-            {
-                this.alamat = alamat;
-            }
-            public string getAlamat()
-            {
-                return this.alamat;
-            }
+                // }
+                public void setId(int id)
+                {
+                    this.id = id;
+                }
+                public int getId()
+                {
+                    return this.id;
+                }
+                public void setNama(String nama)
+                {
+                    this.nama = nama;
+                }
+                public string getNama()
+                {
+                    return this.nama;
+                }
 
-            public void setKelas(String kelas)
-            {
-                this.kelas = kelas;
-            }
-            public String getKelas()
-            {
-                return this.kelas;
-            }
-            public class Ukm : Mahasiswa
-            {
-                string ukm;
+                public void setAlamat(String alamat)
+                {
+                    this.alamat = alamat;
+                }
+                public string getAlamat()
+                {
+                    return this.alamat;
+                }
+
+                public void setKelas(String kelas)
+                {
+                    this.kelas = kelas;
+                }
+                public String getKelas()
+                {
+                    return this.kelas;
+                }
                 // =========================== CONSTRUCT INISIALISASI =======================
-                public Ukm(int id, String nama, String alamat, String kelas, String dosen, String matkul, string ukm)
+                public Mahasiswa(int id, String nama, String alamat, String kelas, String dosen, String matkul, string ukm)
                 {
                     Console.WriteLine("=============== Profile ================");
                     this.id = id;

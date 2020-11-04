@@ -9,7 +9,7 @@ namespace Latihan1
             // =============================== INHERITANCE ===================================
 
             // ========================= SET IN MAIN WITH CONSTRUCT======================
-            Kampus.Mahasiswa.Ukm kmps = new Kampus.Mahasiswa.Ukm(1194021, "M. RIZKY", "Sarijadi", "D4 TI - 2A", "Moh. Nurkamal Fauzan", "Pemrograman WEB 2", "Himatif");
+            Kampus.Ukm.Mahasiswa kmps = new Kampus.Ukm.Mahasiswa(1194021, "M. RIZKY", "Sarijadi", "D4 TI - 2A", "Moh. Nurkamal Fauzan", "Pemrograman WEB 2", "Himatif");
             kmps.printInfo();
 
             // ========================= SET IN MAIN WITH CONSTRUCT AND VAR======================
